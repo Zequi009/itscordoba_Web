@@ -1,0 +1,19 @@
+# Ignorar todas las imágenes en el proyecto
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
+
+# No ignorar imágenes en las carpetas img/slider y img/logos
+!img/slider/*.png
+!img/slider/*.jpg
+!img/slider/*.jpeg
+!img/slider/*.gif
+!img/slider/*.svg
+
+!img/logos/*.png
+!img/logos/*.jpg
+!img/logos/*.jpeg
+!img/logos/*.gif
+!img/logos/*.svg
